@@ -1,0 +1,22 @@
+{
+  "name": "weather-app-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IselaReyesPerdomo94/weather-app-serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IselaReyesPerdomo94/weather-app-serverless/issues"
+  },
+  "homepage": "https://github.com/IselaReyesPerdomo94/weather-app-serverless#readme",
+  "dependencies": {
+    "cross-fetch": "^3.1.4"
+  }
+}
